@@ -1,6 +1,6 @@
 # ASP.NETWebForm
 
-This project is a simple customize shopping cart solution. In the web page ProductMachines.aspx, all the product machines are listed into a repeater and then tranform into HTML table. When user wants to buy a certain product on the listing page, they can click on the "Add to Cart" button and a shopping cart item record will be stored in database for future use.
+This project is a simple customized shopping cart solution. In the web page ProductMachines.aspx, all the product machines are listed into a repeater and then tranformed into HTML table. When user wants to buy a certain product on the listing page, they can click on the "Add to Cart" button and a shopping cart item record will be stored in database for future use.
 
 CODE EXPLAIN
 
