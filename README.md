@@ -2,13 +2,13 @@
 
 This project is a simple customize shopping cart solution. In the web page ProductMachines.aspx, all the product machines are listed into a repeater and then tranform into HTML table. When user wants to buy a certain product on the listing page, they can click on the "Add to Cart" button and a shopping cart item record will be stored in database for future use.
 
-Code Explain
+CODE EXPLAIN
 ProductMachines.aspx.cs/btnAddToCartDetails_Click - This method will add the selected product into shopping cart record in database.
 
 
 User can view their current shopping cart by going to MyCart.aspx page. All their selected products will be shown on this page. They can choose to remove or update existing products in their cart. As soon as they are ready to purchase, they can click the "Check Out" button to proceed to the booking process.
 
-Code Explain
+CODE EXPLAIN
 MyCart.aspx.cs/DisplayCarts - This method display cart details such as total price and quantity for all the products selected.
 
 MyCart.aspx.cs/BindDataMachine - This method bind data to repeater item by looping each record retrieve from database.
